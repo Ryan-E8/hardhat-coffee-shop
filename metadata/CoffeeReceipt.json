@@ -1,0 +1,10 @@
+{
+    "name": "Coffee Shop Receipt",
+    "description": "Proof of Purchase 1 Coffee",
+    "image": "https://ipfs.io/ipfs/QmYSeuMkaoEGbVrHTp5hhARBPFhM1Eaaom5bQBCrVsq9U5?filename=Coffee_House_Receipt.png",
+    "attributes": [
+        {
+            "value": 1
+        }
+    ]
+}
